@@ -1,16 +1,16 @@
-537ps - Implementing a simple version of the ps command
+#537ps - Implementing a simple version of the ps command
 
 This program will display information about all processes belonging to the user who invokes the program. 
 It can also display information about a specific process if the -p option is activiated and a valid pid is given. 
 
-It will display:
+##It will display:
 - single-character state information, option -s which defaults to false. 
 - amount of user time consumed by the process, option -U which defaults to true. -U- turns this off.
 - amount of system time conusmed, option -S which defaults to false. 
 - amount of virtual memory currently being used in pages, option -v which defaults to false.
 - the command-line that started the program, option -c which defaults to true. -c- turns this off.
 
-You will need the following files:
+##You will need the following files:
 - makefile
 - main.c
 - processopts.c
@@ -18,7 +18,7 @@ You will need the following files:
 - searchproc.
 - ps537.h
 
-To run the program:
+##To run the program:
 
 1. >make compile
 2. >537ps

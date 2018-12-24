@@ -1,4 +1,4 @@
-537ps - Implementing a simple version of the ps command
+## 537ps - Implementing a simple version of the ps command
 
 This program will display information about all processes belonging to the user who invokes the program. 
 It can also display information about a specific process if the -p option is activiated and a valid pid is given. 

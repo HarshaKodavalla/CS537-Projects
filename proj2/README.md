@@ -1,4 +1,4 @@
-Shared Memory Producer/Consumer Using Synchronization
+## Shared Memory Producer/Consumer Using Synchronization
 
 This program takes text input and replaces all spaces with asteriks, and converts
 all lowercase letters to uppercase. Four different threads are used to implement

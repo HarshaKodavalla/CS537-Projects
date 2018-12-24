@@ -1,4 +1,4 @@
-537make - A simple version of the make command
+## 537make - A simple version of the make command
 
 This program searches for a file named makefile or Makefile, and builds according to the file's specifications.
 If no specific build target is given, it will build the first target listed. 537make lacks the ability to read

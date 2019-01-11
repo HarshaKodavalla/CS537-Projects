@@ -13,3 +13,6 @@ A program that reads input and utilizes synchronization and multi-threading to p
 
 ## proj3: 537make
 A simple version of the make command.
+
+## proj4: Safe malloc/free library
+An augment to the malloc library that checks on common heap allocation and usage mistakes.
